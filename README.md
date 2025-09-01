@@ -1,10 +1,11 @@
+<div align="center">
+  <a href="https://open.spotify.com/embed/playlist/5A05puHGyX5RHytk7Dl9bZ">
+    <img src="https://github.com/blocky9032/blocky9032/blob/main/britneyspotify.png?raw=true" />
+  </a>
+</div>
 
-<h1 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=CB69F7&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&&lines=Blocky's+World 🌍" alt="Typing SVG" /></a>
-</h1>
-<br/>
 <h3 align="center">
-    I have experience with...
+    I had experience with...
 </h3>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=lua,py,java,nodejs,dotnet,c,cs,html,git,arduino,androidstudio" /><br>
